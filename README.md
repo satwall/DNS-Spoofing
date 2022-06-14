@@ -7,7 +7,6 @@ subprocess
 
 
 
-
 How to use the application:
 
 Pre-configuration
