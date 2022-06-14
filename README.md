@@ -1,3 +1,8 @@
+BCIT Assignment. 
+
+The objective is to learn how DNS spoofing works directly by writing the code. We created a simple DNS and ARP spoof application in Python2 with the goal to redirect the victims web traffic to an IP address that we’ve specified. 
+
+
 Libraries required:
 
 scapy
